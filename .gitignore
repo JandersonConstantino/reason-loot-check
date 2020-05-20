@@ -6,6 +6,9 @@
 .pnp.js
 /lib
 
+# ReasonML generated files
+*.bs.js
+
 # testing
 /coverage
 
