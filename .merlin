@@ -1,0 +1,14 @@
+####{BSB GENERATED: NO EDIT
+B lib/bs
+FLG -open LootCheck
+FLG -ppx '/Users/jandersonconstantino/github/rtl-course-01/node_modules/bs-platform/darwin/bsc.exe -as-ppx -bs-jsx 3'
+S /Users/jandersonconstantino/github/rtl-course-01/node_modules/bs-platform/lib/ocaml
+B /Users/jandersonconstantino/github/rtl-course-01/node_modules/bs-platform/lib/ocaml
+FLG -w +a-4-9-20-40-41-42-50-61-102
+S /Users/jandersonconstantino/github/rtl-course-01/node_modules/reason-react/lib/ocaml
+B /Users/jandersonconstantino/github/rtl-course-01/node_modules/reason-react/lib/ocaml
+S src/components/Wallet
+B lib/bs/src/components/Wallet
+S src/components/App
+B lib/bs/src/components/App
+####BSB GENERATED: NO EDIT}
